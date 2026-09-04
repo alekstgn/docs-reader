@@ -1,0 +1,12 @@
+output/
+output/_photos/
+_extract/
+venv/
+.env
+.env.txt
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+*.log
+*.docx
